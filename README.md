@@ -11,6 +11,6 @@ npm install
 ```
 npm start
 ```
-This is the API Documentation of my website 
-## Links
+2. You can find the API Documentation of my website here
+## 2 GETs and 1 POST
 https://documenter.getpostman.com/view/26382060/2s93JwQ397
