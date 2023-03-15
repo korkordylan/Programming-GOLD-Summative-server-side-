@@ -2,12 +2,12 @@
 This is the submission for Programming Gold Summative Term 2
 
 Go to the directory of the file with Terminal 
+*You can start the website like this 
 
-##Blocks of code
 ```
 npm install
 ```
-##Blocks of code
+
 ```
 npm start
 ```
