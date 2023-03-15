@@ -1,0 +1,87 @@
+[
+        {
+            "name":"Pokka Green Tea 500ml",
+            "id": "1",
+            "cost":"1.75",
+            "type": "drink",
+            "src" : "./images/product_01.jpeg"
+
+        },
+        {
+            "name":"Jinro Original Soju 350ml",
+            "id":"2",
+            "cost":"6.45",
+            "type":"drink",
+            "src":"./images/product_02.jpeg"
+        },
+        {
+            "name": "Haitai Bong Bong Grape Juice 238ml",
+            "id":"3",
+            "cost":"1.50",
+            "type":"drink",
+            "src": "./images/product_03.jpeg"
+        },
+        {
+            "name": "Milo Chocolate Flavoured Malt Milk Drink Can 240ml",
+            "id": "4",
+            "cost": "1.50",
+            "type": "drink",
+            "src":"./images/product_04.jpeg"
+        },
+        {
+            "name": "Pokka Blueberry Tea 500ml",
+            "id":"5",
+            "cost":"1.75",
+            "type":"drink",
+            "src":"./images/product_05.jpeg"
+        },
+        {
+            "name": "Wangzai Milk Drink 245ml",
+            "id": "6",
+            "cost":"1.50",
+            "type":"drink",
+            "src":"./images/product_06.jpeg"
+        },
+        {
+            "name":"Meiji Hello Panda Chocolate Cream Biscuits",
+            "id":"7",
+            "cost":"1",
+            "type":"snack",
+            "src":"./images/product_07.jpeg"
+        },
+        {
+            "name":"Calbee Prawn Cracker (Original)",
+            "id":"8",
+            "cost":"1.50",
+            "type":"snack",
+            "src":"./images/product_08.jpeg"
+        },
+        {
+            "name":"Wang Wang Rice Cracker",
+            "id": "9",
+            "cost": "3",
+            "type": "snack",
+            "src":"./images/product_09.jpeg"
+        },
+        {
+            "name":"Lotte Pepero Biscuits Sticks with Crushed Cookies",
+            "id":"10",
+            "cost":"1.50",
+            "type": "snack",
+            "src": "./images/product_10.jpeg"
+        },
+        {
+            "name":"Tao Kae Noi Crispy Seaweed (Original Flavour) 32g",
+            "id":"11",
+            "cost":"1.50",
+            "type": "snack",
+            "src":"./images/product_11.png"
+        },
+        {
+            "name": "Ginbi Animal Butter Flavoured Biscuits 37g",
+            "id": "12",
+            "cost":"1.50",
+            "type":"snack",
+            "src":"./images/product_12.jpeg"
+        }
+    ]
